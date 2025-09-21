@@ -1,0 +1,13 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+
+if the c# programming language is used, pay attention to the following aspects:
+- if no inheritance is planned from the class or is not explicitly defined, add sealed
+- if a Data Transfer Object is created, then make it readonly so that it cannot be changed after initialization
+
+Audit existing entities, maybe the necessary fields or methods have already been implemented somewhere and OOP principles can be applied in this class.: Polymorphism, Inheritance, And Encapsulation.
+
+Don't forget about the LSP principle and apply it if necessary if entities have similar features, attributes, methods, and other operands.

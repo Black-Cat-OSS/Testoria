@@ -1,0 +1,20 @@
+---
+alwaysApply: true
+---
+when creating a module, the main thing is to properly distribute the entities into directories. Below is an example of what the module structure should be:
+
+(ModuleName)Module
++- Interfaces
++-- I(InterfaceName).cs
++- DTO
++-- (ObjectName)DTO.cs
++- Controllers
++-- (ControllerName)Controller.cs
++- Services
++-- (ServiceName)Service.cs
++- Exceptions
++-- (ExceptionName)Exception.cs
++- Extensions
++-- (ExtensionName)Extension.cs
++- Events
++-- (EventName)Event.cs
