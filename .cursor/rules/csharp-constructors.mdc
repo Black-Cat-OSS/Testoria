@@ -1,7 +1,0 @@
----
-description:
-globs:
-alwaysApply: true
----
-
-if possible, use a simplified constructor when using c#

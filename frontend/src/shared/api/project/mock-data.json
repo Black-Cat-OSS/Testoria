@@ -1,0 +1,182 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440001",
+    "name": "E-commerce Platform",
+    "totalTests": 245,
+    "passedTests": 230,
+    "failedTests": 8,
+    "skippedTests": 5,
+    "runningTests": 2
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440002",
+    "name": "User Authentication Service",
+    "totalTests": 89,
+    "passedTests": 85,
+    "failedTests": 2,
+    "skippedTests": 1,
+    "runningTests": 1
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440003",
+    "name": "Payment Gateway Integration",
+    "totalTests": 156,
+    "passedTests": 150,
+    "failedTests": 4,
+    "skippedTests": 2,
+    "runningTests": 0
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440004",
+    "name": "Mobile App Backend",
+    "totalTests": 312,
+    "passedTests": 298,
+    "failedTests": 12,
+    "skippedTests": 2,
+    "runningTests": 0
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440005",
+    "name": "Data Analytics Dashboard",
+    "totalTests": 178,
+    "passedTests": 165,
+    "failedTests": 8,
+    "skippedTests": 3,
+    "runningTests": 2
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440006",
+    "name": "API Gateway Service",
+    "totalTests": 203,
+    "passedTests": 195,
+    "failedTests": 5,
+    "skippedTests": 2,
+    "runningTests": 1
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440007",
+    "name": "Notification System",
+    "totalTests": 134,
+    "passedTests": 128,
+    "failedTests": 4,
+    "skippedTests": 1,
+    "runningTests": 1
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440008",
+    "name": "File Storage Service",
+    "totalTests": 267,
+    "passedTests": 250,
+    "failedTests": 15,
+    "skippedTests": 2,
+    "runningTests": 0
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440009",
+    "name": "Search Engine Module",
+    "totalTests": 189,
+    "passedTests": 175,
+    "failedTests": 10,
+    "skippedTests": 3,
+    "runningTests": 1
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440010",
+    "name": "Real-time Chat System",
+    "totalTests": 145,
+    "passedTests": 140,
+    "failedTests": 3,
+    "skippedTests": 1,
+    "runningTests": 1
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440011",
+    "name": "Inventory Management",
+    "totalTests": 298,
+    "passedTests": 285,
+    "failedTests": 8,
+    "skippedTests": 4,
+    "runningTests": 1
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440012",
+    "name": "Order Processing System",
+    "totalTests": 223,
+    "passedTests": 210,
+    "failedTests": 9,
+    "skippedTests": 3,
+    "runningTests": 1
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440013",
+    "name": "Customer Support Portal",
+    "totalTests": 167,
+    "passedTests": 155,
+    "failedTests": 7,
+    "skippedTests": 3,
+    "runningTests": 2
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440014",
+    "name": "Content Management System",
+    "totalTests": 201,
+    "passedTests": 190,
+    "failedTests": 6,
+    "skippedTests": 4,
+    "runningTests": 1
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440015",
+    "name": "Reporting Engine",
+    "totalTests": 156,
+    "passedTests": 145,
+    "failedTests": 8,
+    "skippedTests": 2,
+    "runningTests": 1
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440016",
+    "name": "Email Service Provider",
+    "totalTests": 112,
+    "passedTests": 105,
+    "failedTests": 4,
+    "skippedTests": 2,
+    "runningTests": 1
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440017",
+    "name": "Logging and Monitoring",
+    "totalTests": 189,
+    "passedTests": 180,
+    "failedTests": 6,
+    "skippedTests": 2,
+    "runningTests": 1
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440018",
+    "name": "Database Migration Tool",
+    "totalTests": 134,
+    "passedTests": 125,
+    "failedTests": 7,
+    "skippedTests": 1,
+    "runningTests": 1
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440019",
+    "name": "Security Audit Module",
+    "totalTests": 278,
+    "passedTests": 265,
+    "failedTests": 10,
+    "skippedTests": 2,
+    "runningTests": 1
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440020",
+    "name": "Performance Testing Suite",
+    "totalTests": 198,
+    "passedTests": 185,
+    "failedTests": 9,
+    "skippedTests": 3,
+    "runningTests": 1
+  }
+]

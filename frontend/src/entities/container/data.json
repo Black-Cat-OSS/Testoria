@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "name": "web-app-nginx",
+    "image": "nginx:alpine",
+    "status": "running",
+    "ports": ["80:80", "443:443"],
+    "createdAt": "2024-01-15T10:30:00Z",
+    "startedAt": "2024-01-15T10:35:00Z"
+  },
+  {
+    "id": "2",
+    "name": "api-server-node",
+    "image": "node:18-alpine",
+    "status": "running",
+    "ports": ["3000:3000"],
+    "createdAt": "2024-01-15T11:00:00Z",
+    "startedAt": "2024-01-15T11:05:00Z"
+  },
+  {
+    "id": "3",
+    "name": "database-postgres",
+    "image": "postgres:15",
+    "status": "stopped",
+    "ports": ["5432:5432"],
+    "createdAt": "2024-01-15T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "name": "redis-cache",
+    "image": "redis:7-alpine",
+    "status": "running",
+    "ports": ["6379:6379"],
+    "createdAt": "2024-01-15T12:20:00Z",
+    "startedAt": "2024-01-15T12:25:00Z"
+  },
+  {
+    "id": "5",
+    "name": "monitoring-prometheus",
+    "image": "prom/prometheus:latest",
+    "status": "paused",
+    "ports": ["9090:9090"],
+    "createdAt": "2024-01-15T08:45:00Z"
+  }
+]
